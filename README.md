@@ -6,3 +6,4 @@
 - 💞️ I am looking to colaborate in math and science related projects.
      I am comfortable with these following programming languages: Ruby, Rust, and Elixir.
 - 📫 You can reach me in the major social media as @aaripurna. Or through email: aaripurna@gmail.com
+- 🌏 You can visit my website [here](https://ctrl.aaripurna.com/) (but nothing really here)
